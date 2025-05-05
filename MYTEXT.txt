@@ -1,0 +1,3 @@
+line1:Here are some key features of Python:
+line2:Free and Open Source: Python is freely available for use, modification, and distribution. 
+line3:Easy to Learn: Its syntax is designed to be simple and readable, making it beginner-friendly. 
